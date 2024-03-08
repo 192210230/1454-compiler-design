@@ -1,2 +1,1 @@
-39
-pending
+All 40 uploaded
